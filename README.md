@@ -1,6 +1,6 @@
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doggbmx)](https://github.com/anuraghazra/github-readme-stats)[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doggbmx)](https://github.com/anuraghazra/github-readme-stats)
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.webp">
 
 
