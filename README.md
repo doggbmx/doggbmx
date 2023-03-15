@@ -1,8 +1,8 @@
 
 <div style="display: flex; justify-content: center; align-items-center; flex-direction: column; flex-wrap: nowrap;">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doggbmx&show_icons=true&theme=tokyonight)
-<br/>
+<div style="margin: 0 auto">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doggbmx&show_icons=true&theme=tokyonight)
+  </div>
+  <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
