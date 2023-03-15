@@ -1,4 +1,6 @@
 
+<div style="display: flex; justify-content: center; align-items-center; flex-direction: column; flex-wrap: nowrap;">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doggbmx&show_icons=true&theme=tokyonight)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -7,7 +9,7 @@
 <p align="center">
   <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.webp">
 </p>
-
+</div>
 
 
 
