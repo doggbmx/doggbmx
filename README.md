@@ -1,6 +1,6 @@
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doggbmx&show_icons=true&theme=tokyonight)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doggbmx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<p style="margin: 0 auto;"><img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.webp"></p>
+  <p style="margin: 0 auto;"><img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.webp"></p>
 
 <!--
 **doggbmx/doggbmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
